@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-using-react-react-dark-reader-8IeairoR95](https://your-solution-url.com)
-- Live Site URL: [https://interactive-pricing-component-using-react.vercel.app/](https://your-live-site-url.com)
-
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-using-react-react-dark-reader-8IeairoR95]
+- Live Site URL: [https://interactive-pricing-component-using-react.vercel.app/]
 ## My process
 
 ### Built with

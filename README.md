@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-using-react-and-tailwind-nqyOKoeIf](https://your-solution-url.com)
-- Live Site URL: [https://interactive-pricing-component-main-murex.vercel.app/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-using-react-react-dark-reader-8IeairoR95](https://your-solution-url.com)
+- Live Site URL: [https://interactive-pricing-component-using-react.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@amrfateem](https://www.frontendmentor.io/profile/amrfateem)
+- Frontend Mentor - [@lazyfuhrer](https://www.frontendmentor.io/profile/lazyfuhrer)

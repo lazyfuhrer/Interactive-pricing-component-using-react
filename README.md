@@ -23,9 +23,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Use the slider and toggle to see prices for different page view numbers
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpeg)
+![](./Screenshot-1.PNG)
+![](./Screenshot-2.PNG)
 
 ### Links
 

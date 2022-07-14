@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive pricing component solution
+# Frontend Mentor - Interactive pricing component solution (Using React.js)
 
 This is a solution to the [Interactive pricing component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -27,6 +27,7 @@ Users should be able to:
 
 ![](./Screenshot-1.PNG)
 ![](./Screenshot-2.PNG)
+
 
 ### Links
 
